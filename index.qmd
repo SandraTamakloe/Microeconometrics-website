@@ -1,11 +1,5 @@
 ---
-title: "Microeconometrics website"
+title: "Sandra Tamakloe"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello, my name is Sandra Tamakloe. I look forward to having a great time in this course!
