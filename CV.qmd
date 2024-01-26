@@ -64,14 +64,13 @@ A1C 5S7
 -Developed strong product knowledge to provide informed recommendations based on individual customer needs.
 
 # Skills and Abilities
-- Stata
-- R
-- Latex
-- Microsoft Office Suite
-- Search Engine Optimization
-- Project management
-- Excellent Customer Relations
-- 
+-Stata\
+-R\
+-Latex\
+-Microsoft Office Suite\
+-Search Engine Optimization\
+-Project management\
+-Excellent Customer Relations\
 
 # Volunteer work
 ## Children Are Reason Enough (C.A.R.E)
