@@ -14,10 +14,11 @@ website:
     right: 
      - href: Contact.qmd
        text: "{{< fa envelope >}} Contact"
+      
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 
