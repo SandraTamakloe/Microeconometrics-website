@@ -10,15 +10,15 @@ PDF Version [here](docs/CV.pdf)
 
 
 # Contact Information
-{{< fa envelope >}}[satamakloe@mun.ca](mailto:satamakloe@mun.ca)
+{{< fa envelope >}} [satamakloe@mun.ca](mailto:satamakloe@mun.ca)
 
 {{< fa phone >}} (709)682-2068
 
-{{< fa paper-plane >}} Archarya Drive
-
-Paradise, Newfoundland and Labrador
-
-A1B 0J1.
+{{< fa paper-plane >}} Department of Economics\
+Memorial University of Newfoundland and Labrador\
+230 Elizabeth AvenueSt\
+John’s, NL, Canada\
+A1C 5S7
 
 # Education
 -M.A. Economics, Memorial University of Newfoundland
@@ -68,6 +68,11 @@ A1B 0J1.
 -Assisted with organizing charity events at orthopedic training centers and Health Care facilities, contributing to the success of fundraising efforts and community outreach initiatives.
 
 -Coordinated visits to Pediatric Centers and orphanages, engaging with children and making meaningful donations to brighten their day and improve their well-being.
+
+# Cerifications
+-TCPS 2: CORE 2022
+
+-Digital Skills: Digital Marketing (Accenture)
 
 
 # References
