@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sandra Tamakloe",
     "section": "",
-    "text": "Hello, my name is Sandra Tamakloe. I look forward to having a great time in this course!"
+    "text": "Graduate Assistant\nDepartment of Economics\nMemorial University of Newfoundland and Labrador"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,96 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "sandra_cv.html",
+    "href": "sandra_cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "satamakloe@mun.ca\n (204) 789-4216"
+  },
+  {
+    "objectID": "sandra_cv.html#contact-information",
+    "href": "sandra_cv.html#contact-information",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "satamakloe@mun.ca\n (204) 789-4216"
+  },
+  {
+    "objectID": "Assignment1.html",
+    "href": "Assignment1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Assignment1.html#quarto",
+    "href": "Assignment1.html#quarto",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Assignment1.html#running-code",
+    "href": "Assignment1.html#running-code",
+    "title": "Assignment 1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact Information",
+    "section": "",
+    "text": "satamakloe@mun.ca)\n(709) 6822068"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PDF Version here"
+  },
+  {
+    "objectID": "CV.html#teaching-assistant-012023",
+    "href": "CV.html#teaching-assistant-012023",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Assistant (01/2023)",
+    "text": "Teaching Assistant (01/2023)\n\nMemorial University of Newfoundland\n-Providing attentive supervision and support to students during exams, addressing inquiries, and maintaining a calm and conducive atmosphere.\n-Provided tutoring sessions for struggling students, leading to increased understanding and improved grades."
+  },
+  {
+    "objectID": "CV.html#customer-fulfillment-associate-052023",
+    "href": "CV.html#customer-fulfillment-associate-052023",
+    "title": "Curriculum Vitae",
+    "section": "Customer Fulfillment Associate (05/2023)",
+    "text": "Customer Fulfillment Associate (05/2023)\n\nWalmart, Canada\n-Managed online customer orders by picking and packing items with precision and attention to detail.\n-Utilized computer systems and handheld devices to accurately locate and retrieve merchandise for customer orders, ensuring timely fulfillment.\n-Provided excellent customer service, addressing inquiries, resolving issues, and ensuring a positive shopping experience for online customers"
+  },
+  {
+    "objectID": "CV.html#marketing-coordinator-012022-082022",
+    "href": "CV.html#marketing-coordinator-012022-082022",
+    "title": "Curriculum Vitae",
+    "section": "Marketing Coordinator (01/2022-08/2022)",
+    "text": "Marketing Coordinator (01/2022-08/2022)\n\nBuabeng Books Limited, Accra-Ghana\n-Analyzed sales data and prepared marketing reports, contributing to successful marketing and advertising campaigns.\n-Monitored and adjusted promotional content to achieve objectives and improve customer engagement.\n-Tracked analytics for social channels, web traffic, and email campaigns to inform marketing strategy.\n-Collaborated with creative teams to deliver productive marketing campaigns and increase brand awareness."
+  },
+  {
+    "objectID": "CV.html#customer-service-representative-102020-092021",
+    "href": "CV.html#customer-service-representative-102020-092021",
+    "title": "Curriculum Vitae",
+    "section": "Customer Service Representative (10/2020 – 09/2021)",
+    "text": "Customer Service Representative (10/2020 – 09/2021)\n\nGCB Bank Limited, Accra-Ghana\n-Coordinated inbound and outbound office mail and assisted with administrative duties to maintain organizational efficiency.\n-Enhanced customer satisfaction by promptly addressing concerns and providing accurate information.\n-Maintained a cash drawer and balanced it at the end of each shift.\n-Developed strong product knowledge to provide informed recommendations based on individual customer needs."
+  },
+  {
+    "objectID": "CV.html#children-are-reason-enough-c.a.r.e",
+    "href": "CV.html#children-are-reason-enough-c.a.r.e",
+    "title": "Curriculum Vitae",
+    "section": "Children Are Reason Enough (C.A.R.E)",
+    "text": "Children Are Reason Enough (C.A.R.E)\n-Assisted with organizing charity events at orthopedic training centers and Health Care facilities, contributing to the success of fundraising efforts and community outreach initiatives.\n-Coordinated visits to Pediatric Centers and orphanages, engaging with children and making meaningful donations to brighten their day and improve their well-being."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Sandra Tamakloe",
+    "section": "About",
+    "text": "About\nI am Sandra Tamakloe, a graduate student passionately exploring the synergy of Economics and Business. In my academic journey, I aim to leverage data to tell compelling stories, blending the analytical depth of economics with the strategic insights of business. As a Graduate Assistant at Memorial University, I contribute to academia while delving into the potential of data-driven narratives to shape our understanding of complex economic systems."
   }
 ]

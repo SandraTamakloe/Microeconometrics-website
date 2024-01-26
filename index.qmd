@@ -1,5 +1,25 @@
 ---
-title: "Sandra Tamakloe"
+title: ""
+format: html
 ---
 
-Hello, my name is Sandra Tamakloe. I look forward to having a great time in this course!
+
+::: columns
+::: {.column width="40%"}
+![](Sandy.png)
+:::
+
+::: {.column width="60%"}
+### Sandra Tamakloe, M.A Economics
+
+**Graduate Assistant**\
+Department of Economics\
+Memorial University of Newfoundland and Labrador
+
+:::
+:::
+
+
+## About
+
+I am Sandra Tamakloe, a graduate student passionately exploring the synergy of Economics and Business. In my academic journey, I aim to leverage data to tell compelling stories, blending the analytical depth of economics with the strategic insights of business. As a Graduate Assistant at Memorial University, I contribute to academia while delving into the potential of data-driven narratives to shape our understanding of complex economic systems.

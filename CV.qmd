@@ -1,0 +1,74 @@
+---
+title: "Curriculum Vitae"
+editor: visual
+---
+
+
+PDF Version [here](docs/CV.pdf)
+
+
+
+# Contact Information
+{{< fa envelope >}}[satamakloe@mun.ca](mailto:satamakloe@mun.ca)
+
+{{< fa phone >}} (709)682-2068
+
+{{< fa paper-plane >}} Archarya Drive
+
+Paradise, Newfoundland and Labrador
+
+A1B 0J1.
+
+# Education
+-M.A. Economics, Memorial University of Newfoundland
+
+-GDp. Economics (2023), Memorial University of Newfoundland
+
+-BSc. Business Administration (2020), Ghana Communication Technology University- Accra, Ghana
+
+# Work Experience
+## Teaching Assistant (01/2023)
+### Memorial University of Newfoundland
+-Providing attentive supervision and support to students during exams, addressing inquiries, and maintaining a calm and conducive atmosphere.
+
+-Provided tutoring sessions for struggling students, leading to increased understanding and improved grades.
+
+## Customer Fulfillment Associate (05/2023)
+### Walmart, Canada
+-Managed online customer orders by picking and packing items with precision and attention to detail.
+
+-Utilized computer systems and handheld devices to accurately locate and retrieve merchandise for customer orders, ensuring timely fulfillment.
+
+-Provided excellent customer service, addressing inquiries, resolving issues, and ensuring a positive shopping experience for online customers
+
+## Marketing Coordinator (01/2022-08/2022)
+### Buabeng Books Limited, Accra-Ghana
+
+-Analyzed sales data and prepared marketing reports, contributing to successful marketing and advertising campaigns.
+
+-Monitored and adjusted promotional content to achieve objectives and improve customer engagement.
+
+-Tracked analytics for social channels, web traffic, and email campaigns to inform marketing strategy.
+
+-Collaborated with creative teams to deliver productive marketing campaigns and increase brand awareness.
+
+## Customer Service Representative (10/2020 – 09/2021)
+### GCB Bank Limited, Accra-Ghana
+-Coordinated inbound and outbound office mail and assisted with administrative duties to maintain organizational efficiency.
+
+-Enhanced customer satisfaction by promptly addressing concerns and providing accurate information.
+
+-Maintained a cash drawer and balanced it at the end of each shift.
+
+-Developed strong product knowledge to provide informed recommendations based on individual customer needs.
+
+# Volunteer work
+## Children Are Reason Enough (C.A.R.E)
+-Assisted with organizing charity events at orthopedic training centers and Health Care facilities, contributing to the success of fundraising efforts and community outreach initiatives.
+
+-Coordinated visits to Pediatric Centers and orphanages, engaging with children and making meaningful donations to brighten their day and improve their well-being.
+
+
+# References
+
+-Available upon request

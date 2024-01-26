@@ -1,0 +1,9 @@
+---
+title: "Contact Information"
+format: html
+editor: visual
+---
+
+{{< fa envelope >}} [satamakloe\@mun.ca](mailto:satamakloe@mun.ca))
+
+{{< fa phone >}}(709) 6822068
