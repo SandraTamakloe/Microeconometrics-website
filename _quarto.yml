@@ -14,7 +14,8 @@ website:
     right: 
      - href: Contact.qmd
        text: "{{< fa envelope >}} Contact"
-       
+     - href: https://sandratamakloe.github.io/Microeconometrics-website/
+       icon: github
 
 format:
   html:
